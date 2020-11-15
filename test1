@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<!-- <header> O Titlos mou </header> -->
+<head>
+
+</head>
+<body>
+
+<div>My First Heading</div>
+<span>My first paragraph.</span>
+
+<a>
+    <div>Div 1</div>
+    <div>Div 2</div>
+    <div>Div 3</div>
+  </a>
+
+<p>my second paragraph </p>
+
+
+</body>
+</html>
